@@ -14,6 +14,7 @@ This project focuses on analyzing bank customer data using Machine Learning Clas
 - Pandas & NumPy
 - Matplotlib & Seaborn
 - Scikit-learn
+- SQL
 - Jupyter Notebook
 
 🔍 Key Insights:
